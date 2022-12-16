@@ -1,2 +1,2 @@
 # Tareas-Estructuras
-Autor:Vincer Solis Hernandez
+Autor: Vincer Solis Hernandez
